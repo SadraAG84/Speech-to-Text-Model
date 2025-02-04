@@ -12,7 +12,7 @@ def record_text():
             # Use the microphone as the source of audio input
             with sr.Microphone() as source2:
                 # Adjust for ambient noise to improve recognition accuracy
-                r.adjust_for_ambient_noise(source=source2, duration=0.5)
+                r.adjust_for_ambient_noise(source=source2, duration=0.45)
 
                 # Inform the user to start speaking
                 print("Lütfen konuşun...")  # "Please speak now..." in Turkish
