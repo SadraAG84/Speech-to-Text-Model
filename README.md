@@ -1,2 +1,3 @@
 # Speech to Text Model
- This model is a sophisticated speech-to-text system designed to accurately transcribe spoken English into written text. It has been developed using the Python programming language
+ This model is a sophisticated speech-to-text system designed to accurately transcribe spoken English into written text. It has been developed using the Python programming language.
+The Turkish version of this speech-to-text model has also been added, expanding its capabilities to better support a wider range of languages and enhancing its accessibility for users who speak Turkish.
